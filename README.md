@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ayush Kumar Singh B Tech CSE student <br>I am study in Apeejay Stya university<br>Currently I am in 1st year of student<br>Currently I am learn Python<br>I know C, C++, HTML
+ I am study in Apeejay Stya university<br>Currently I am in 1st year of student<br>Currently I am learn Python<br>I know C, C++, HTML
 
 
 ## 🌐 Socials:
